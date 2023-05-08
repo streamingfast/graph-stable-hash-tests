@@ -1,0 +1,11 @@
+[package]
+name = "graph-stable-hash-tests"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bigdecimal = { version = "0.1.0" }
+lazy_static = { version = "1.4" }
+num-bigint = { version = "^0.2.6" }
+num-integer = "0.1"
+stable-hash = "0.4"
